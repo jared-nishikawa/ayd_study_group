@@ -48,3 +48,6 @@ sgf/20240106.sgf
 
 sgf/20240123.sgf
   - 3-4, low approach, two-space low pincer, push and cut, descend
+
+sgf/20240430.sgf
+  - 4-4, large knight enclosure, knight's move reduction
